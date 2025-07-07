@@ -33,8 +33,6 @@ My Contributions:
 
 # Clone the repository
 
-git clone https://github.com/yourusername/greenbasket.git
-
 # Navigate to the project directory
 
 cd greenbasket
