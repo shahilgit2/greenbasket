@@ -128,7 +128,9 @@ const OrderSummary = () => {
         </div>
 
         <div>
-         
+          <label className="text-base font-medium uppercase text-gray-600 block mb-2">
+            Promo Code
+          </label>
           <div className="flex flex-col items-start gap-3">
             <input
               type="text"
